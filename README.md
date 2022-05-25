@@ -1,8 +1,6 @@
 ### Solved Rank  
   [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=geol2)](https://solved.ac/geol2)  
 
-<a href="https://opgc.me/#/users/geol2" target="_blank"><img src="https://api.opgc.me/githubs/users/geol2/tag/?theme=basic" /></a>
-
 ### Github stats  
 [![geol's github stats](https://github-readme-stats.vercel.app/api?username=geol2&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![geol's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geol2&hide=css,scss,html&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
