@@ -16,8 +16,9 @@
   [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=geol2)](https://solved.ac/geol2)  
 
   ### Github Stat 
-  [![geol's github stats](https://github-readme-stats.vercel.app/api?username=geol2&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geol2&hide=css,scss,html&show_icons=true&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geol2&show_icons=true&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geol2&hide=css,scss,html&show_icons=true&layout=compact&theme=dark&count_private=true">
 
   <!-- [![geol's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geol2&hide=css,scss,html&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->
  
