@@ -1,6 +1,6 @@
 <div align="center">
 
-  # GEOL2
+  ### GEOL2
   👨🏻‍💻  Hello World!!<br>
 
   ### Interested Tech
