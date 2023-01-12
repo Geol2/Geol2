@@ -24,8 +24,8 @@
   
   ### Github Stat 
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geol2&show_icons=true&theme=dark">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geol2&hide=css,scss,html&show_icons=true&layout=compact&theme=dark&count_private=true">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=geol2&show_icons=true&theme=dark">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=geol2&hide=css,scss,html&show_icons=true&layout=compact&theme=dark&count_private=true">
   </div>
 
   <!-- [![geol's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geol2&hide=css,scss,html&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->
