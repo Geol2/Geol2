@@ -5,6 +5,7 @@
 
   ### Interested Tech
   <img src="https://img.shields.io/badge/CodeIgniter4-E34F26?style=flat-square&logo=codeigniter&logoColor=white">
+    <img src="https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=Laravel&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white">
   <br>
