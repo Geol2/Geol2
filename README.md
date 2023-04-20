@@ -1,9 +1,24 @@
 <div align="center">
 
   ### GEOL2
-  👨🏻‍💻  Hello World!!<br>
+</div>
 
+```
+  {
+    "job"     : "Developer",
+    "birthday": "1994-01-18",
+    "country" : "South Korea",
+    "city"    : "Young-in",
+    "stack"   : ["JAVA", "PHP", "MySQL", "HTML", "CSS", "JS", "Vue", "..."],
+    "interest": ["Clean Code", "Testing", "Linux", "..."], 
+    "quote"   : "There is nothing good unless you do it. - Erich Kästner"
+  }
+  ```
+  
+<div align="center">
+  
   ### Interested Tech
+  
   <img src="https://img.shields.io/badge/CodeIgniter4-E34F26?style=flat-square&logo=codeigniter&logoColor=white">
     <img src="https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=Laravel&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
