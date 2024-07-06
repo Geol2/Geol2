@@ -35,7 +35,7 @@
   ### Solved Rank
   
   <div align="center">
-    <img height="180em" src="https://mazassumnida.wtf/api/generate_badge?boj=geol2">
+    <img height="180em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=geol2">
   </div>
   
   ### Github Stat 
