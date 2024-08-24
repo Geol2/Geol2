@@ -17,3 +17,4 @@ jobs:
           DEBUG_LOGGING: "False"
           SHOW_COMMIT: "True"
           SHOW_OS: "True"
+          SHOW_SHORT_INFO : "False"
