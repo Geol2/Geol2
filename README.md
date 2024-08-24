@@ -52,18 +52,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 293 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -126,7 +114,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Geol2/Geol2/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2024 08:05:13 UTC
+ Last Updated on 24/08/2024 08:16:34 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
