@@ -48,6 +48,38 @@
 ------------
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 292 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in PHP** 
+
+```text
+HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+Java                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Geol2/Geol2/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/08/2024 07:49:16 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
