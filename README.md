@@ -48,9 +48,9 @@
 ------------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C342%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C340%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -113,7 +113,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2024 05:40:01 UTC
+ Last Updated on 26/10/2024 15:23:20 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
