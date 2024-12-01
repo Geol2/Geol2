@@ -47,9 +47,7 @@
 ------------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C534%20hrs%2051%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **저는 주로 Java 언어를 사용해요.** 
 
@@ -64,7 +62,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2024 15:25:58 UTC
+ Last Updated on 01/12/2024 15:26:01 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
