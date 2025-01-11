@@ -47,6 +47,8 @@
 ------------
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C784%20hrs%204%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **저는 주로 HTML 언어를 사용해요.** 
@@ -62,7 +64,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2025 15:25:50 UTC
+ Last Updated on 11/01/2025 15:25:38 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
