@@ -52,7 +52,7 @@
 <!--START_SECTION:waka-->
 <div align="center">
     
-  ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+  <a href="https://hits.sh/github.com/geol2/"><img alt="Hits" src="https://hits.sh/github.com/geol2.svg?view=today-total&color=cf69ff"/></a>
 
 </div>
 
