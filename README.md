@@ -50,7 +50,9 @@
   
 ------------
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+<div align="center">
+  ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+</div>
 
 **저는 주로 Java 언어를 사용해요.** 
 
