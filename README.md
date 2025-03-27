@@ -52,7 +52,7 @@
 <!--START_SECTION:waka-->
 <div align="center">
     
-  <a href="https://hits.sh/github.com/geol2/"><img alt="Hits" src="https://hits.sh/github.com/geol2.svg?view=today-total&color=cf69ff"/></a>
+  <a href="https://hits.sh/github.com/geol2/"><img alt="Hits" src="https://hits.sh/github.com/geol2.svg?view=today-total&color=97ca00"/></a>
 
 </div>
 
