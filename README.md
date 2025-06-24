@@ -3,7 +3,7 @@
   ### GEOL2
 </div>
 
-```
+```json
   {
     "job"     : "Developer",
     "birthday": "1994-01-18",
