@@ -9,7 +9,7 @@
     "birthday": "1994-01-18",
     "country" : "South Korea",
     "city"    : "Young-in",
-    "stack"   : ["JAVA", "C++", "PHP", "MySQL", "HTML", "CSS", "JS", "Vue", "..."],
+    "stack"   : ["JAVA", "C++", "Shell", "Go"],
     "interest": ["Clean Code", "Testing", "Linux", "..."], 
     "quote"   : "There is nothing good unless you do it. - Erich Kästner"
   }
