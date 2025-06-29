@@ -24,9 +24,14 @@
   <!-- <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
+  <!-- <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"> -->
   <img src="https://img.shields.io/badge/OpenAI-%23412991?style=flat-square&logo=openai&logoColor=white">
+  &nbsp;&nbsp;
+  <!-- <br><br> -->
+  
+  <img src="https://img.shields.io/badge/junit-%23E33332?style=flat-square&logo=junit5&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white"> -->
   <br><br>
   
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
