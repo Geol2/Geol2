@@ -45,7 +45,7 @@
   ### Github Stat 
   <div align="center">
     <img height="180em" src="https://github-readme-stats-omega-five-90.vercel.app/api/?username=geol2&show_icons=true&theme=dark">
-    <img height="180em" src="https://github-readme-stats-omega-five-90.vercel.app/api/top-langs/?username=geol2&show_icons=true&hide=css,scss,html&layout=compact&theme=dark&count_private=true&langs_count=10">
+    <img height="180em" src="https://github-readme-stats-omega-five-90.vercel.app/api/top-langs/?username=geol2&show_icons=true&hide=php,python,VUE,cmake,EJS,css,scss,html&layout=compact&theme=dark">
   </div>
   
 ------------
