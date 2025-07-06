@@ -58,10 +58,13 @@
   </div>
   
 ------------
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C210%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
+<div align="center">
+  
+  <!--START_SECTION:waka-->
+  ![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)    ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C210%20hrs%2023%20mins-blue)
+
+</div>
 
 **저는 주로 Java 언어를 사용해요.** 
 
