@@ -60,6 +60,8 @@
 ------------
 
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C465%20hrs%2039%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **저는 주로 Java 언어를 사용해요.** 
@@ -75,7 +77,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 15:32:50 UTC
+ Last Updated on 04/10/2025 15:31:25 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
