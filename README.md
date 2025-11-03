@@ -65,17 +65,17 @@
 **저는 주로 JavaScript 언어를 사용해요.** 
 
 ```text
-JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Java                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 02/11/2025 15:24:10 UTC
+ Last Updated on 03/11/2025 15:30:15 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
