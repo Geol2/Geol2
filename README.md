@@ -60,73 +60,24 @@
 ------------
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C840%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C848%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**저는 저녁형 인간이에요. 🦉** 
-
-```text
-🌞 아침                     680 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-🌆 낮　                     1364 commits        ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-🌃 저녁                     1587 commits        ████████░░░░░░░░░░░░░░░░░   32.22 % 
-🌙 밤　                     1295 commits        ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-```
-📅 **제가 가장 생산적인 날은 토요일이에요.** 
-
-```text
-월요일                      731 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-화요일                      684 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-수요일                      712 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-목요일                      552 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-금요일                      575 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-토요일                      903 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-일요일                      769 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-Java                     12 hrs 57 mins      ███████████░░░░░░░░░░░░░░   42.46 % 
-JavaScript               5 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Python                   4 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-TypeScript               1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-
-🔥 에디터들: 
-VS Code                  28 hrs 43 mins      ████████████████████████░   94.07 % 
-Eclipse                  1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-
-🐱‍💻 프로젝트들: 
-eXrep_dWorks             13 hrs 19 mins      ███████████░░░░░░░░░░░░░░   43.67 % 
-html5imgeViewer          4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Problem-Solved           4 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-16_eXrep_dWorks          3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Pago                     3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-
-💻 운영 체제들: 
-Windows                  26 hrs 24 mins      ██████████████████████░░░   86.51 % 
-Mac                      4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
 
 ```text
-JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
 
 
- Last Updated on 17/03/2026 16:14:06 UTC
+ Last Updated on 18/03/2026 16:13:51 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
