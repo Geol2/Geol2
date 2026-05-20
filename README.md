@@ -31,7 +31,7 @@
   <!-- <br><br> -->
   
   <img src="https://img.shields.io/badge/junit-%23E33332?style=flat-square&logo=junit5&logoColor=white">
-  <!-- <img src="https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white">
   <br><br>
   
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
@@ -48,7 +48,7 @@
   ### Solved Rank
   
   <div align="center">
-    <img height="180em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=geol2">
+    <!-- <img height="180em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=geol2"> -->
     <img height="180em" src="https://leetcard.jacoblin.cool/Geol2?theme=light&font=Gugi&border=0&radius=20">
   </div>
   
