@@ -61,7 +61,9 @@
 ------------
 
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C193%20hrs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **저는 주로 JavaScript 언어를 사용해요.** 
 
@@ -76,7 +78,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 15:43:00 UTC
+ Last Updated on 08/06/2026 16:35:09 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
