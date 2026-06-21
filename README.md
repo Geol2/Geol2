@@ -63,7 +63,7 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C239%20hrs%2034%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -125,7 +125,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2026 15:48:02 UTC
+ Last Updated on 21/06/2026 15:47:33 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
