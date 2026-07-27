@@ -61,28 +61,30 @@
 ------------
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C305%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C254%20hrs%203%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-271%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     663 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-🌆 낮　                     1411 commits        ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-🌃 저녁                     1568 commits        ████████░░░░░░░░░░░░░░░░░   32.00 % 
-🌙 밤　                     1258 commits        ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+🌞 아침                     663 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+🌆 낮　                     1419 commits        ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+🌃 저녁                     1568 commits        ████████░░░░░░░░░░░░░░░░░   31.95 % 
+🌙 밤　                     1258 commits        ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
 ```
 📅 **제가 가장 생산적인 날은 토요일이에요.** 
 
 ```text
-월요일                      719 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-화요일                      683 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-수요일                      722 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-목요일                      576 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-금요일                      595 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-토요일                      872 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-일요일                      733 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+월요일                      727 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+화요일                      683 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+수요일                      722 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+목요일                      576 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+금요일                      595 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+토요일                      872 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+일요일                      733 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
 ```
 
 
@@ -113,6 +115,29 @@ sebang                   1 hr 26 mins        ███░░░░░░░░�
 Windows                  14 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 13 hrs 54 mins (96.07%)
+
+✍️ 5,256 lines written by AI, 4 lines written by hand (99.92% AI-written)
+
+🔤 151,038,785 Input Tokens, 912,294 Output Tokens
+
+💵 $777.77 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 131 AI Prompts
+
+Opus                     5,381 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 2,776 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.22% of changed lines were hand-edited
+```
+
 **저는 주로 JavaScript 언어를 사용해요.** 
 
 ```text
@@ -126,7 +151,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 15:35:38 UTC
+ Last Updated on 27/07/2026 16:03:11 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
