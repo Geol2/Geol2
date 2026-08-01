@@ -61,9 +61,9 @@
 ------------
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C266%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C269%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-285%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-289%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -94,48 +94,48 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JavaScript               4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-Markdown                 3 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Java                     2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Other                    2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Python                   1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+JavaScript               5 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Markdown                 3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Java                     2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Other                    2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Python                   1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
 
 🔥 에디터들: 
-Claude Code              18 hrs 17 mins      ███████████████████████░░   91.91 % 
-VS Code                  1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Claude Code              17 hrs 15 mins      ███████████████████████░░   93.35 % 
+VS Code                  1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 
 🐱‍💻 프로젝트들: 
-momentum_v3              6 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.99 % 
-integration-api-backend  3 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-diarization-lab          2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-EXSO_dWorks              2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-sebang_8                 2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+EXSO_dWorks              5 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+momentum_v3              3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+integration-api-backend  3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+diarization-lab          2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+sebang_8                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 
 💻 운영 체제들: 
-Windows                  19 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 17 mins (96.92%)
+⏱ AI Coding Time: 18 hrs 4 mins (97.75%)
 
-✍️ 8,015 lines written by AI, 9 lines written by hand (99.89% AI-written)
+✍️ 6,686 lines written by AI, 7 lines written by hand (99.9% AI-written)
 
-🔤 197,475,509 Input Tokens, 1,057,248 Output Tokens
+🔤 222,096,573 Input Tokens, 1,007,879 Output Tokens
 
-💵 $1012.74 Estimated AI Cost This Week
+💵 $1134.69 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 226 AI Prompts
+🧠 15 AI Sessions, 217 AI Prompts
 
-Opus                     8,119 lines         █████████████████████████   100.00 % 
+Opus                     6,762 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📚 Verbose Prompter — average 9,882 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 0.17% of changed lines were hand-edited
+🤖 AI-Driven — 99.9% of written lines came from AI
+📚 Verbose Prompter — average 10,022 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 0.16% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -151,7 +151,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 15:57:06 UTC
+ Last Updated on 01/08/2026 15:34:44 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
