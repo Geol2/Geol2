@@ -67,6 +67,76 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
+**저는 저녁형 인간이에요. 🦉** 
+
+```text
+🌞 아침                     644 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+🌆 낮　                     1386 commits        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+🌃 저녁                     1510 commits        ████████░░░░░░░░░░░░░░░░░   31.79 % 
+🌙 밤　                     1210 commits        ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+```
+📅 **제가 가장 생산적인 날은 토요일이에요.** 
+
+```text
+월요일                      704 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+화요일                      676 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+수요일                      699 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+목요일                      548 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+금요일                      574 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+토요일                      856 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+일요일                      693 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+```
+
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+Python                   10 hrs 26 mins      █████████████░░░░░░░░░░░░   53.60 % 
+JavaScript               3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+SQL                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+
+🔥 에디터들: 
+VS Code                  10 hrs 36 mins      ██████████████░░░░░░░░░░░   54.39 % 
+Claude Code              8 hrs 53 mins       ███████████░░░░░░░░░░░░░░   45.61 % 
+
+🐱‍💻 프로젝트들: 
+my-llm                   11 hrs 1 min        ██████████████░░░░░░░░░░░   56.52 % 
+EXSO_dWorks              3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+103_SEBANG               1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+momentum_v3              1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+1001_filePort            1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+
+💻 운영 체제들: 
+Windows                  19 hrs 29 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 11 hrs 59 mins (61.54%)
+
+✍️ 4,101 lines written by AI, 656 lines written by hand (86.21% AI-written)
+
+🔤 6,438,140 Input Tokens, 485,657 Output Tokens
+
+💵 $109.03 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 133 AI Prompts
+
+Opus                     4,299 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 86.21% of written lines came from AI
+📚 Verbose Prompter — average 5,429 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 18.24% of changed lines were hand-edited
+```
+
 **저는 주로 JavaScript 언어를 사용해요.** 
 
 ```text
@@ -80,7 +150,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 15:36:25 UTC
+ Last Updated on 16/08/2026 15:35:31 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
