@@ -65,25 +65,25 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-316%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
 🌞 아침                     644 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-🌆 낮　                     1394 commits        ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-🌃 저녁                     1511 commits        ████████░░░░░░░░░░░░░░░░░   31.75 % 
-🌙 밤　                     1210 commits        ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
+🌆 낮　                     1394 commits        ███████░░░░░░░░░░░░░░░░░░   29.28 % 
+🌃 저녁                     1513 commits        ████████░░░░░░░░░░░░░░░░░   31.78 % 
+🌙 밤　                     1210 commits        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
 ```
 📅 **제가 가장 생산적인 날은 토요일이에요.** 
 
 ```text
 월요일                      704 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
 화요일                      684 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-수요일                      700 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-목요일                      548 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+수요일                      701 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+목요일                      549 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
 금요일                      574 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-토요일                      856 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+토요일                      856 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
 일요일                      693 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
 ```
 
@@ -94,47 +94,47 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Python                   10 hrs 53 mins      █████████████████░░░░░░░░   68.43 % 
-JavaScript               3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Text                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Python                   9 hrs 50 mins       █████████████████░░░░░░░░   67.44 % 
+JavaScript               3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 에디터들: 
-VS Code                  10 hrs 50 mins      █████████████████░░░░░░░░   68.08 % 
-Claude Code              5 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.92 % 
+VS Code                  9 hrs 46 mins       █████████████████░░░░░░░░   66.97 % 
+Claude Code              4 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   33.03 % 
 
 🐱‍💻 프로젝트들: 
-my-llm                   11 hrs 40 mins      ██████████████████░░░░░░░   73.38 % 
-EXSO_dWorks              2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-momentum_v3              1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Geol2.github.io          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-1001_filePort            17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+my-llm                   10 hrs 32 mins      ██████████████████░░░░░░░   72.25 % 
+EXSO_dWorks              2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+momentum_v3              1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Geol2.github.io          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+1001_filePort            17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 💻 운영 체제들: 
-Windows                  15 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 24 mins (52.81%)
+⏱ AI Coding Time: 8 hrs 8 mins (55.75%)
 
-✍️ 3,593 lines written by AI, 666 lines written by hand (84.36% AI-written)
+✍️ 3,281 lines written by AI, 635 lines written by hand (83.78% AI-written)
 
-🔤 2,154,809 Input Tokens, 284,333 Output Tokens
+🔤 2,130,324 Input Tokens, 268,138 Output Tokens
 
-💵 $51.94 Estimated AI Cost This Week
+💵 $50.36 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 94 AI Prompts
+🧠 10 AI Sessions, 76 AI Prompts
 
-Opus                     4,021 lines         █████████████████████████   100.00 % 
+Opus                     3,721 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.36% of written lines came from AI
-📚 Verbose Prompter — average 7,614 characters per prompt
+🤖 AI-Driven — 83.78% of written lines came from AI
+📚 Verbose Prompter — average 9,394 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 19.47% of changed lines were hand-edited
+🚀 High AI Trust — 20.2% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -150,7 +150,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 15:46:52 UTC
+ Last Updated on 20/08/2026 15:49:46 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
