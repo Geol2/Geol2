@@ -61,9 +61,9 @@
 ------------
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C307%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C312%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-317%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-319%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -94,47 +94,47 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Python                   3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.58 % 
-JavaScript               2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-Java                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Java                     5 hrs               ██████████████░░░░░░░░░░░   56.89 % 
+JavaScript               1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Other                    1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+XML                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Python                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 🔥 에디터들: 
-VS Code                  4 hrs 40 mins       █████████████░░░░░░░░░░░░   52.81 % 
-Claude Code              4 hrs 11 mins       ████████████░░░░░░░░░░░░░   47.19 % 
+VS Code                  6 hrs 12 mins       ██████████████████░░░░░░░   70.48 % 
+Claude Code              2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.52 % 
 
 🐱‍💻 프로젝트들: 
-my-llm                   3 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   40.02 % 
-EXSO_dWorks              2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-dworks5.0                2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-Geol2.github.io          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-momentum_v3              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+dworks5.0                7 hrs 13 mins       █████████████████████░░░░   82.18 % 
+my-llm                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Geol2.github.io          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+momentum_v3              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+big94                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 운영 체제들: 
-Windows                  8 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 40 mins (63.91%)
+⏱ AI Coding Time: 4 hrs 45 mins (54.11%)
 
-✍️ 962 lines written by AI, 276 lines written by hand (77.71% AI-written)
+✍️ 942 lines written by AI, 178 lines written by hand (84.11% AI-written)
 
-🔤 1,797,921 Input Tokens, 190,129 Output Tokens
+🔤 1,659,581 Input Tokens, 87,124 Output Tokens
 
-💵 $41.75 Estimated AI Cost This Week
+💵 $25.11 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 46 AI Prompts
+🧠 10 AI Sessions, 14 AI Prompts
 
-Opus                     1,276 lines         █████████████████████████   100.00 % 
+Opus                     1,351 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.71% of written lines came from AI
-📝 Concise Prompter — average 88 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 70.95% of changed lines were hand-edited
+🤖 AI-Driven — 84.11% of written lines came from AI
+📝 Concise Prompter — average 152 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 69.16% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -150,7 +150,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 15:48:57 UTC
+ Last Updated on 22/08/2026 15:36:35 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
