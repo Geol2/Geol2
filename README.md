@@ -61,9 +61,9 @@
 ------------
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C312%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C314%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-319%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-320%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -94,47 +94,48 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     5 hrs               ██████████████░░░░░░░░░░░   56.89 % 
-JavaScript               1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Other                    1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-XML                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Python                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Java                     6 hrs 23 mins       ██████████████░░░░░░░░░░░   57.55 % 
+Other                    1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+JavaScript               1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+XML                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Python                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🔥 에디터들: 
-VS Code                  6 hrs 12 mins       ██████████████████░░░░░░░   70.48 % 
-Claude Code              2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+VS Code                  7 hrs 37 mins       █████████████████░░░░░░░░   68.78 % 
+Claude Code              3 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.22 % 
 
 🐱‍💻 프로젝트들: 
-dworks5.0                7 hrs 13 mins       █████████████████████░░░░   82.18 % 
-my-llm                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Geol2.github.io          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-momentum_v3              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+dworks5.0                9 hrs 31 mins       █████████████████████░░░░   85.86 % 
+my-llm                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Geol2.github.io          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+momentum_v3              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 big94                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 운영 체제들: 
-Windows                  8 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 45 mins (54.11%)
+⏱ AI Coding Time: 6 hrs 5 mins (54.92%)
 
-✍️ 942 lines written by AI, 178 lines written by hand (84.11% AI-written)
+✍️ 942 lines written by AI, 183 lines written by hand (83.73% AI-written)
 
-🔤 1,659,581 Input Tokens, 87,124 Output Tokens
+🔤 2,291,760 Input Tokens, 97,894 Output Tokens
 
-💵 $25.11 Estimated AI Cost This Week
+💵 $31.25 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 14 AI Prompts
+🧠 11 AI Sessions, 14 AI Prompts
 
 Opus                     1,351 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.11% of written lines came from AI
+🤖 AI-Driven — 83.73% of written lines came from AI
 📝 Concise Prompter — average 152 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 69.16% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 69.39% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -150,7 +151,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 15:54:51 UTC
+ Last Updated on 25/08/2026 16:00:58 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
