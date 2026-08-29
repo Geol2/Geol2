@@ -61,9 +61,9 @@
 ------------
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C325%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C329%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-328%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-330%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -94,45 +94,45 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     15 hrs 10 mins      ██████████████████░░░░░░░   73.04 % 
-Other                    2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-JavaScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-XML                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Java Properties          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Java                     15 hrs 14 mins      ████████████████████░░░░░   78.96 % 
+Other                    1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+XML                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+INI                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 에디터들: 
-VS Code                  15 hrs              ██████████████████░░░░░░░   72.27 % 
-Claude Code              5 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+VS Code                  13 hrs 30 mins      ██████████████████░░░░░░░   70.00 % 
+Claude Code              5 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.00 % 
 
 🐱‍💻 프로젝트들: 
-dworks5.0                20 hrs 15 mins      ████████████████████████░   97.47 % 
-workspace-egov           31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+dworks5.0                18 hrs 47 mins      ████████████████████████░   97.28 % 
+workspace-egov           31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 💻 운영 체제들: 
-Windows                  20 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 10 mins (53.82%)
+⏱ AI Coding Time: 11 hrs 21 mins (58.8%)
 
-✍️ 1,155 lines written by AI, 328 lines written by hand (77.88% AI-written)
+✍️ 1,074 lines written by AI, 501 lines written by hand (68.19% AI-written)
 
-🔤 3,959,083 Input Tokens, 193,246 Output Tokens
+🔤 3,333,721 Input Tokens, 201,398 Output Tokens
 
-💵 $47.45 Estimated AI Cost This Week
+💵 $37.09 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 65 AI Prompts
+🧠 5 AI Sessions, 78 AI Prompts
 
-Sonnet                   1,076 lines         █████████████████████░░░░   84.33 % 
-Opus                     200 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Sonnet                   1,169 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.88% of written lines came from AI
-📄 Detailed Prompter — average 824 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 31.84% of changed lines were hand-edited
+🤖 AI-Driven — 68.19% of written lines came from AI
+📄 Detailed Prompter — average 757 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 39.9% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -148,7 +148,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 00:07:02 UTC
+ Last Updated on 29/08/2026 18:26:50 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
