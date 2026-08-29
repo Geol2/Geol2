@@ -61,11 +61,11 @@
 ------------
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C321%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C325%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-325%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-328%20hrs%207%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -94,46 +94,45 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     12 hrs 42 mins      █████████████████░░░░░░░░   68.77 % 
-Other                    2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-XML                      1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Java Properties          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Java                     15 hrs 10 mins      ██████████████████░░░░░░░   73.04 % 
+Other                    2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+JavaScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+XML                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Java Properties          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 에디터들: 
-VS Code                  13 hrs 45 mins      ███████████████████░░░░░░   74.44 % 
-Claude Code              4 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+VS Code                  15 hrs              ██████████████████░░░░░░░   72.27 % 
+Claude Code              5 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
 
 🐱‍💻 프로젝트들: 
-dworks5.0                17 hrs 57 mins      ████████████████████████░   97.16 % 
-workspace-egov           31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-big94                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+dworks5.0                20 hrs 15 mins      ████████████████████████░   97.47 % 
+workspace-egov           31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 💻 운영 체제들: 
-Windows                  18 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 33 mins (51.7%)
+⏱ AI Coding Time: 11 hrs 10 mins (53.82%)
 
-✍️ 1,136 lines written by AI, 299 lines written by hand (79.16% AI-written)
+✍️ 1,155 lines written by AI, 328 lines written by hand (77.88% AI-written)
 
-🔤 4,197,579 Input Tokens, 156,209 Output Tokens
+🔤 3,959,083 Input Tokens, 193,246 Output Tokens
 
-💵 $49.16 Estimated AI Cost This Week
+💵 $47.45 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 43 AI Prompts
+🧠 5 AI Sessions, 65 AI Prompts
 
-Sonnet                   1,057 lines         █████████████████████░░░░   84.09 % 
-Opus                     200 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Sonnet                   1,076 lines         █████████████████████░░░░   84.33 % 
+Opus                     200 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.16% of written lines came from AI
-📄 Detailed Prompter — average 788 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 72.14% of changed lines were hand-edited
+🤖 AI-Driven — 77.88% of written lines came from AI
+📄 Detailed Prompter — average 824 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 31.84% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -149,7 +148,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 00:28:52 UTC
+ Last Updated on 29/08/2026 00:07:02 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
