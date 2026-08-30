@@ -65,7 +65,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-330%20hrs%2041%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -148,7 +148,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 18:26:50 UTC
+ Last Updated on 30/08/2026 18:41:01 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
