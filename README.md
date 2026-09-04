@@ -67,6 +67,70 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
+**저는 저녁형 인간이에요. 🦉** 
+
+```text
+🌞 아침                     645 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+🌆 낮　                     1395 commits        ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+🌃 저녁                     1518 commits        ████████░░░░░░░░░░░░░░░░░   31.84 % 
+🌙 밤　                     1210 commits        ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+```
+📅 **제가 가장 생산적인 날은 토요일이에요.** 
+
+```text
+월요일                      705 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+화요일                      685 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+수요일                      702 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+목요일                      551 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+금요일                      576 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+토요일                      856 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+일요일                      693 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+```
+
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+Java                     5 hrs 27 mins       ████████████████████████░   95.03 % 
+JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+
+🔥 에디터들: 
+VS Code                  2 hrs 56 mins       █████████████░░░░░░░░░░░░   51.19 % 
+Claude Code              2 hrs 48 mins       ████████████░░░░░░░░░░░░░   48.81 % 
+
+🐱‍💻 프로젝트들: 
+dworks5.0                5 hrs 44 mins       █████████████████████████   100.00 % 
+
+💻 운영 체제들: 
+Windows                  5 hrs 44 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 13 mins (73.58%)
+
+✍️ 32 lines written by AI, 253 lines written by hand (11.23% AI-written)
+
+🔤 455,553 Input Tokens, 75,522 Output Tokens
+
+💵 $11.24 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 35 AI Prompts
+
+Sonnet                   107 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 11.23% of written lines came from AI
+📝 Concise Prompter — average 490 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🔍 Hands-On Reviewer — 76.12% of changed lines were hand-edited
+```
+
 **저는 주로 JavaScript 언어를 사용해요.** 
 
 ```text
@@ -80,7 +144,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 18:37:06 UTC
+ Last Updated on 04/09/2026 18:24:27 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
