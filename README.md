@@ -61,9 +61,9 @@
 ------------
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C331%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C335%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-332%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-336%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
@@ -94,41 +94,45 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     5 hrs 27 mins       ████████████████████████░   95.03 % 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Java                     3 hrs 51 mins       ████████████████░░░░░░░░░   64.55 % 
+Markdown                 1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+JavaScript               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 에디터들: 
-VS Code                  2 hrs 56 mins       █████████████░░░░░░░░░░░░   51.19 % 
-Claude Code              2 hrs 48 mins       ████████████░░░░░░░░░░░░░   48.81 % 
+Claude Code              5 hrs               █████████████████████░░░░   83.81 % 
+VS Code                  58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
 
 🐱‍💻 프로젝트들: 
-dworks5.0                5 hrs 44 mins       █████████████████████████   100.00 % 
+dworks5.0                4 hrs 47 mins       ████████████████████░░░░░   79.97 % 
+sebang_8                 1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
 
 💻 운영 체제들: 
-Windows                  5 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 13 mins (73.58%)
+⏱ AI Coding Time: 5 hrs 32 mins (92.66%)
 
-✍️ 32 lines written by AI, 253 lines written by hand (11.23% AI-written)
+✍️ 50 lines written by AI, 16 lines written by hand (75.76% AI-written)
 
-🔤 455,553 Input Tokens, 75,522 Output Tokens
+🔤 1,379,104 Input Tokens, 140,866 Output Tokens
 
-💵 $11.24 Estimated AI Cost This Week
+💵 $58.90 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 35 AI Prompts
+🧠 3 AI Sessions, 63 AI Prompts
 
-Sonnet                   107 lines           █████████████████████████   100.00 % 
+Opus                     63 lines            ████████████████████░░░░░   81.82 % 
+Sonnet                   14 lines            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 11.23% of written lines came from AI
-📝 Concise Prompter — average 490 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🔍 Hands-On Reviewer — 76.12% of changed lines were hand-edited
+🤖 AI-Driven — 75.76% of written lines came from AI
+📝 Concise Prompter — average 431 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
+🚀 High AI Trust — 25.24% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -144,7 +148,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 18:24:27 UTC
+ Last Updated on 05/09/2026 17:23:20 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
