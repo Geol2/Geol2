@@ -65,7 +65,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-336%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -94,30 +94,30 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     3 hrs 51 mins       ████████████████░░░░░░░░░   64.55 % 
-Markdown                 1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-JavaScript               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Java                     3 hrs 25 mins       ████████████████░░░░░░░░░   62.00 % 
+Markdown                 1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+JavaScript               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 에디터들: 
-Claude Code              5 hrs               █████████████████████░░░░   83.81 % 
-VS Code                  58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Claude Code              5 hrs               ███████████████████████░░   90.94 % 
+VS Code                  29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
 
 🐱‍💻 프로젝트들: 
-dworks5.0                4 hrs 47 mins       ████████████████████░░░░░   79.97 % 
-sebang_8                 1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+dworks5.0                4 hrs 18 mins       ████████████████████░░░░░   78.26 % 
+sebang_8                 1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
 
 💻 운영 체제들: 
-Windows                  5 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 32 mins (92.66%)
+⏱ AI Coding Time: 5 hrs 20 mins (96.99%)
 
-✍️ 50 lines written by AI, 16 lines written by hand (75.76% AI-written)
+✍️ 50 lines written by AI, 13 lines written by hand (79.37% AI-written)
 
 🔤 1,379,104 Input Tokens, 140,866 Output Tokens
 
@@ -129,10 +129,10 @@ Opus                     63 lines            ███████████�
 Sonnet                   14 lines            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.76% of written lines came from AI
+🤖 AI-Driven — 79.37% of written lines came from AI
 📝 Concise Prompter — average 431 characters per prompt
 🔁 Iterative Prompter — average 21 prompts per session
-🚀 High AI Trust — 25.24% of changed lines were hand-edited
+🚀 High AI Trust — 19.79% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -148,7 +148,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 19:14:30 UTC
+ Last Updated on 08/09/2026 18:38:47 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
