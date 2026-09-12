@@ -65,7 +65,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-336%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -94,44 +94,39 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     2 hrs 35 mins       █████████████░░░░░░░░░░░░   50.25 % 
-Markdown                 1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-JavaScript               1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Java                     39 mins             ████████████████░░░░░░░░░   63.35 % 
+JavaScript               22 mins             █████████░░░░░░░░░░░░░░░░   36.65 % 
 
 🔥 에디터들: 
-Claude Code              4 hrs 41 mins       ███████████████████████░░   90.86 % 
-VS Code                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Claude Code              1 hr 2 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 프로젝트들: 
-dworks5.0                3 hrs 57 mins       ███████████████████░░░░░░   76.75 % 
-sebang_8                 1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+dworks5.0                1 hr 2 mins         █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Windows                  5 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs (97.26%)
+⏱ AI Coding Time: 1 hr 2 mins (100.0%)
 
-✍️ 46 lines written by AI, 13 lines written by hand (77.97% AI-written)
+✍️ 4 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,064,777 Input Tokens, 128,073 Output Tokens
+🔤 1,725,953 Input Tokens, 22,208 Output Tokens
 
-💵 $73.32 Estimated AI Cost This Week
+💵 $19.80 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 56 AI Prompts
+🧠 2 AI Sessions, 14 AI Prompts
 
-Opus                     67 lines            █████████████████████████   100.00 % 
+Opus                     4 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.97% of written lines came from AI
-📝 Concise Prompter — average 352 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 22.09% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 299 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -147,7 +142,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 18:30:18 UTC
+ Last Updated on 12/09/2026 17:53:48 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
