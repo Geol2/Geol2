@@ -70,20 +70,20 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     646 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-🌆 낮　                     1395 commits        ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-🌃 저녁                     1521 commits        ████████░░░░░░░░░░░░░░░░░   31.87 % 
-🌙 밤　                     1210 commits        ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+🌞 아침                     646 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+🌆 낮　                     1396 commits        ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+🌃 저녁                     1522 commits        ████████░░░░░░░░░░░░░░░░░   31.88 % 
+🌙 밤　                     1210 commits        ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
 ```
 📅 **제가 가장 생산적인 날은 토요일이에요.** 
 
 ```text
 월요일                      705 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-화요일                      685 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-수요일                      702 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-목요일                      551 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+화요일                      687 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+수요일                      702 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+목요일                      551 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
 금요일                      580 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-토요일                      856 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+토요일                      856 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
 일요일                      693 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
 ```
 
@@ -94,39 +94,22 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     39 mins             ████████████████░░░░░░░░░   63.35 % 
-JavaScript               22 mins             █████████░░░░░░░░░░░░░░░░   36.65 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-Claude Code              1 hr 2 mins         █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🐱‍💻 프로젝트들: 
-dworks5.0                1 hr 2 mins         █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 2 mins (100.0%)
-
-✍️ 4 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 1,725,953 Input Tokens, 22,208 Output Tokens
-
-💵 $19.80 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 14 AI Prompts
-
-Opus                     4 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 299 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -142,7 +125,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 19:58:54 UTC
+ Last Updated on 15/09/2026 19:00:59 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
