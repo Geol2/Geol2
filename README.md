@@ -61,71 +61,26 @@
 ------------
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C335%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C337%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-336%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-338%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**저는 저녁형 인간이에요. 🦉** 
-
-```text
-🌞 아침                     646 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-🌆 낮　                     1396 commits        ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-🌃 저녁                     1522 commits        ████████░░░░░░░░░░░░░░░░░   31.88 % 
-🌙 밤　                     1210 commits        ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
-```
-📅 **제가 가장 생산적인 날은 토요일이에요.** 
-
-```text
-월요일                      705 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-화요일                      687 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-수요일                      702 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-목요일                      551 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-금요일                      580 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-토요일                      856 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-일요일                      693 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
-
-🔥 에디터들: 
-이번 주에 활동은 없어요.
-
-🐱‍💻 프로젝트들: 
-이번 주에 활동은 없어요.
-
-💻 운영 체제들: 
-이번 주에 활동은 없어요.
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
 
 ```text
-JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   31.25 % 
+Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
 
 
- Last Updated on 15/09/2026 19:00:59 UTC
+ Last Updated on 16/09/2026 18:57:35 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
