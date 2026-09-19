@@ -61,9 +61,9 @@
 ------------
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C340%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C342%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-340%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-342%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -94,46 +94,48 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   34.45 % 
-JavaScript               1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   31.91 % 
-Java                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Python                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Markdown                 3 hrs 28 mins       ████████████░░░░░░░░░░░░░   49.64 % 
+JavaScript               2 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   30.83 % 
+Python                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔥 에디터들: 
-Claude Code              4 hrs 19 mins       ██████████████████░░░░░░░   73.77 % 
-VS Code                  1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+Claude Code              4 hrs 54 mins       ██████████████████░░░░░░░   70.02 % 
+VS Code                  2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.98 % 
 
 🐱‍💻 프로젝트들: 
-dworks5.0                3 hrs               █████████████░░░░░░░░░░░░   51.17 % 
-dworks-e2e               1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
-1008_utils               46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Downloads                34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+dworks5.0                2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.81 % 
+dworks-e2e               1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+sebang_8                 1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+1008_utils               46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Downloads                34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 
 💻 운영 체제들: 
-Windows                  5 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 6 mins (87.08%)
+⏱ AI Coding Time: 6 hrs 6 mins (87.03%)
 
-✍️ 2,134 lines written by AI, 114 lines written by hand (94.93% AI-written)
+✍️ 3,686 lines written by AI, 125 lines written by hand (96.72% AI-written)
 
-🔤 1,172,653 Input Tokens, 244,028 Output Tokens
+🔤 793,478 Input Tokens, 319,617 Output Tokens
 
-💵 $62.96 Estimated AI Cost This Week
+💵 $66.38 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 50 AI Prompts
+🧠 6 AI Sessions, 57 AI Prompts
 
-Opus                     2,137 lines         █████████████████████████   100.00 % 
+Opus                     3,691 lines         █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.93% of written lines came from AI
-📄 Detailed Prompter — average 1,016 characters per prompt
+🤖 AI-Driven — 96.72% of written lines came from AI
+📚 Verbose Prompter — average 4,334 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 6.07% of changed lines were hand-edited
+🚀 High AI Trust — 3.98% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -149,7 +151,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 18:25:57 UTC
+ Last Updated on 19/09/2026 18:04:54 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
