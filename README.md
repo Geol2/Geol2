@@ -61,29 +61,29 @@
 ------------
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C342%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C344%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-342%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-343%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     646 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+🌞 아침                     646 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 🌆 낮　                     1402 commits        ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-🌃 저녁                     1525 commits        ████████░░░░░░░░░░░░░░░░░   31.88 % 
-🌙 밤　                     1210 commits        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+🌃 저녁                     1526 commits        ████████░░░░░░░░░░░░░░░░░   31.90 % 
+🌙 밤　                     1210 commits        ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
 ```
 📅 **제가 가장 생산적인 날은 토요일이에요.** 
 
 ```text
 월요일                      707 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-화요일                      687 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+화요일                      688 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
 수요일                      707 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
 목요일                      552 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-금요일                      581 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-토요일                      856 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+금요일                      581 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+토요일                      856 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
 일요일                      693 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
 ```
 
@@ -94,48 +94,49 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 3 hrs 28 mins       ████████████░░░░░░░░░░░░░   49.64 % 
-JavaScript               2 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   30.83 % 
-Python                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Markdown                 3 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.17 % 
+JavaScript               2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+Java                     2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Python                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 🔥 에디터들: 
-Claude Code              4 hrs 54 mins       ██████████████████░░░░░░░   70.02 % 
-VS Code                  2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+Claude Code              6 hrs 15 mins       ████████████████░░░░░░░░░   63.24 % 
+VS Code                  2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+Eclipse                  1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
 
 🐱‍💻 프로젝트들: 
-dworks5.0                2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-dworks-e2e               1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-sebang_8                 1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-1008_utils               46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Downloads                34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+dworks5.0                4 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.75 % 
+dworks-e2e               2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+sebang_8                 1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+1008_utils               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Downloads                34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 💻 운영 체제들: 
-Windows                  7 hrs               █████████████████████████   100.00 % 
+Windows                  9 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 6 mins (87.03%)
+⏱ AI Coding Time: 8 hrs 2 mins (81.23%)
 
-✍️ 3,686 lines written by AI, 125 lines written by hand (96.72% AI-written)
+✍️ 3,940 lines written by AI, 152 lines written by hand (96.29% AI-written)
 
-🔤 793,478 Input Tokens, 319,617 Output Tokens
+🔤 1,948,653 Input Tokens, 365,316 Output Tokens
 
-💵 $66.38 Estimated AI Cost This Week
+💵 $86.14 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 57 AI Prompts
+🧠 8 AI Sessions, 101 AI Prompts
 
-Opus                     3,691 lines         █████████████████████████   100.00 % 
+Opus                     3,948 lines         █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.72% of written lines came from AI
-📚 Verbose Prompter — average 4,334 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 3.98% of changed lines were hand-edited
+🤖 AI-Driven — 96.29% of written lines came from AI
+📚 Verbose Prompter — average 2,547 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 4.48% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -151,7 +152,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 20:07:15 UTC
+ Last Updated on 22/09/2026 18:53:00 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
