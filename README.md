@@ -61,9 +61,9 @@
 ------------
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C349%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C349%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-347%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-347%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -94,49 +94,49 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     5 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.00 % 
-JavaScript               3 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-Markdown                 1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Other                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-XML                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Java                     5 hrs 4 mins        ███████████░░░░░░░░░░░░░░   44.74 % 
+JavaScript               2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+Markdown                 1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Other                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+XML                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 🔥 에디터들: 
-Claude Code              5 hrs 48 mins       ████████████░░░░░░░░░░░░░   47.25 % 
-VS Code                  3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.48 % 
-Eclipse                  3 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+Claude Code              5 hrs 28 mins       ████████████░░░░░░░░░░░░░   48.26 % 
+Eclipse                  3 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   30.96 % 
+VS Code                  2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
 
 🐱‍💻 프로젝트들: 
-dworks5.0                6 hrs 41 mins       ██████████████░░░░░░░░░░░   54.43 % 
-dworks-e2e               3 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-sebang_8                 1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Downloads                34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-103_SEBANG               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+dworks5.0                7 hrs 20 mins       ████████████████░░░░░░░░░   64.74 % 
+dworks-e2e               2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+sebang_8                 1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+103_SEBANG               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+1008_utils               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 운영 체제들: 
-Windows                  12 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 34 mins (69.69%)
+⏱ AI Coding Time: 8 hrs 13 mins (72.51%)
 
-✍️ 3,044 lines written by AI, 280 lines written by hand (91.58% AI-written)
+✍️ 2,070 lines written by AI, 169 lines written by hand (92.45% AI-written)
 
-🔤 3,220,842 Input Tokens, 295,951 Output Tokens
+🔤 3,100,058 Input Tokens, 238,790 Output Tokens
 
-💵 $70.02 Estimated AI Cost This Week
+💵 $68.70 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 145 AI Prompts
+🧠 8 AI Sessions, 159 AI Prompts
 
-Opus                     3,052 lines         █████████████████████████   100.00 % 
+Opus                     2,075 lines         █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.58% of written lines came from AI
-📚 Verbose Prompter — average 1,717 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 14.89% of changed lines were hand-edited
+🤖 AI-Driven — 92.45% of written lines came from AI
+📄 Detailed Prompter — average 1,449 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 16.16% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -152,7 +152,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 19:08:50 UTC
+ Last Updated on 24/09/2026 19:08:36 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
