@@ -67,6 +67,75 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
+**저는 저녁형 인간이에요. 🦉** 
+
+```text
+🌞 아침                     646 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+🌆 낮　                     1403 commits        ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+🌃 저녁                     1526 commits        ████████░░░░░░░░░░░░░░░░░   31.89 % 
+🌙 밤　                     1210 commits        ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+```
+📅 **제가 가장 생산적인 날은 토요일이에요.** 
+
+```text
+월요일                      707 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+화요일                      688 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+수요일                      708 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+목요일                      552 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+금요일                      581 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+토요일                      856 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+일요일                      693 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+```
+
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+Java                     5 hrs               ██████████████░░░░░░░░░░░   57.13 % 
+JavaScript               1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+Other                    55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+XML                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+
+🔥 에디터들: 
+Claude Code              3 hrs 55 mins       ███████████░░░░░░░░░░░░░░   44.89 % 
+Eclipse                  3 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   40.07 % 
+VS Code                  1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+
+🐱‍💻 프로젝트들: 
+dworks5.0                7 hrs 19 mins       █████████████████████░░░░   83.63 % 
+dworks-e2e               1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+1008_utils               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+
+💻 운영 체제들: 
+Windows                  8 hrs 45 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 55 mins (67.54%)
+
+✍️ 419 lines written by AI, 155 lines written by hand (73.0% AI-written)
+
+🔤 2,751,006 Input Tokens, 121,433 Output Tokens
+
+💵 $54.70 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 137 AI Prompts
+
+Opus                     422 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 73.0% of written lines came from AI
+📝 Concise Prompter — average 164 characters per prompt
+🔁 Iterative Prompter — average 23 prompts per session
+🚀 High AI Trust — 47.45% of changed lines were hand-edited
+```
+
 **저는 주로 JavaScript 언어를 사용해요.** 
 
 ```text
@@ -80,7 +149,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 19:23:28 UTC
+ Last Updated on 26/09/2026 18:39:16 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
