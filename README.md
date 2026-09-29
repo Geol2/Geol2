@@ -94,46 +94,44 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     5 hrs               ██████████████░░░░░░░░░░░   57.13 % 
-JavaScript               1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-Other                    55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-XML                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Java                     2 hrs 58 mins       █████████████░░░░░░░░░░░░   51.02 % 
+JavaScript               1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+Other                    36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+XML                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
 
 🔥 에디터들: 
-Claude Code              3 hrs 55 mins       ███████████░░░░░░░░░░░░░░   44.89 % 
-Eclipse                  3 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   40.07 % 
-VS Code                  1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Claude Code              2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   43.74 % 
+Eclipse                  2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.10 % 
+VS Code                  1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
 
 🐱‍💻 프로젝트들: 
-dworks5.0                7 hrs 19 mins       █████████████████████░░░░   83.63 % 
-dworks-e2e               1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-1008_utils               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+dworks5.0                4 hrs 49 mins       █████████████████████░░░░   82.42 % 
+dworks-e2e               1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
 
 💻 운영 체제들: 
-Windows                  8 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 55 mins (67.54%)
+⏱ AI Coding Time: 3 hrs 57 mins (67.57%)
 
-✍️ 419 lines written by AI, 155 lines written by hand (73.0% AI-written)
+✍️ 165 lines written by AI, 128 lines written by hand (56.31% AI-written)
 
-🔤 2,751,006 Input Tokens, 121,433 Output Tokens
+🔤 1,586,008 Input Tokens, 71,117 Output Tokens
 
-💵 $54.70 Estimated AI Cost This Week
+💵 $34.11 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 137 AI Prompts
+🧠 4 AI Sessions, 93 AI Prompts
 
-Opus                     422 lines           █████████████████████████   100.00 % 
+Opus                     165 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.0% of written lines came from AI
-📝 Concise Prompter — average 164 characters per prompt
+⚖️ Balanced with AI — 56.31% of written lines came from AI
+📝 Concise Prompter — average 132 characters per prompt
 🔁 Iterative Prompter — average 23 prompts per session
-🚀 High AI Trust — 47.45% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 67.9% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -149,7 +147,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 21:20:38 UTC
+ Last Updated on 29/09/2026 20:06:44 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
