@@ -61,9 +61,9 @@
 ------------
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C352%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C358%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-349%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-352%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -94,41 +94,43 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     1 hr 57 mins        ██████████████████░░░░░░░   71.52 % 
-JavaScript               44 mins             ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Java                     7 hrs 10 mins       █████████████████████░░░░   83.28 % 
+JavaScript               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+XML                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 에디터들: 
-Claude Code              1 hr 35 mins        ██████████████░░░░░░░░░░░   57.88 % 
-Eclipse                  1 hr 9 mins         ███████████░░░░░░░░░░░░░░   42.12 % 
+Eclipse                  5 hrs 25 mins       ████████████████░░░░░░░░░   62.86 % 
+Claude Code              3 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
 
 🐱‍💻 프로젝트들: 
-dworks5.0                2 hrs 44 mins       █████████████████████████   100.00 % 
+dworks5.0                8 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs (73.15%)
+⏱ AI Coding Time: 4 hrs 12 mins (48.75%)
 
-✍️ 0 lines written by AI, 4 lines written by hand (0.0% AI-written)
+✍️ 745 lines written by AI, 200 lines written by hand (78.84% AI-written)
 
-🔤 1,353,092 Input Tokens, 71,878 Output Tokens
+🔤 2,481,927 Input Tokens, 274,187 Output Tokens
 
-💵 $46.62 Estimated AI Cost This Week
+💵 $76.89 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 40 AI Prompts
+🧠 5 AI Sessions, 81 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     745 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 56 characters per prompt
-🔁 Iterative Prompter — average 40 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 78.84% of written lines came from AI
+📝 Concise Prompter — average 214 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 26.6% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -144,7 +146,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 20:28:24 UTC
+ Last Updated on 02/10/2026 20:00:31 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
