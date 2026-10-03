@@ -61,9 +61,9 @@
 ------------
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C358%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C361%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-352%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-352%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -94,43 +94,43 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     7 hrs 10 mins       █████████████████████░░░░   83.28 % 
-JavaScript               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-XML                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Java                     10 hrs 12 mins      ██████████████████████░░░   87.14 % 
+JavaScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+XML                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 에디터들: 
-Eclipse                  5 hrs 25 mins       ████████████████░░░░░░░░░   62.86 % 
-Claude Code              3 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
+Eclipse                  8 hrs 2 mins        █████████████████░░░░░░░░   68.56 % 
+Claude Code              3 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   31.44 % 
 
 🐱‍💻 프로젝트들: 
-dworks5.0                8 hrs 37 mins       █████████████████████████   100.00 % 
+dworks5.0                11 hrs 43 mins      █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Windows                  8 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 12 mins (48.75%)
+⏱ AI Coding Time: 4 hrs 46 mins (40.68%)
 
-✍️ 745 lines written by AI, 200 lines written by hand (78.84% AI-written)
+✍️ 745 lines written by AI, 261 lines written by hand (74.06% AI-written)
 
-🔤 2,481,927 Input Tokens, 274,187 Output Tokens
+🔤 3,788,784 Input Tokens, 312,058 Output Tokens
 
-💵 $76.89 Estimated AI Cost This Week
+💵 $89.57 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 81 AI Prompts
+🧠 6 AI Sessions, 94 AI Prompts
 
 Opus                     745 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.84% of written lines came from AI
-📝 Concise Prompter — average 214 characters per prompt
+🤖 AI-Driven — 74.06% of written lines came from AI
+📝 Concise Prompter — average 194 characters per prompt
 🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 26.6% of changed lines were hand-edited
+🚀 High AI Trust — 31.02% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -146,7 +146,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 20:00:31 UTC
+ Last Updated on 03/10/2026 18:47:16 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
