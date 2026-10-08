@@ -61,95 +61,26 @@
 ------------
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C366%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C370%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-356%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-359%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
-
-**저는 저녁형 인간이에요. 🦉** 
-
-```text
-🌞 아침                     647 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-🌆 낮　                     1406 commits        ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-🌃 저녁                     1529 commits        ████████░░░░░░░░░░░░░░░░░   31.91 % 
-🌙 밤　                     1210 commits        ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-```
-📅 **제가 가장 생산적인 날은 토요일이에요.** 
-
-```text
-월요일                      707 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-화요일                      691 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-수요일                      711 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-목요일                      553 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-금요일                      581 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-토요일                      856 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-일요일                      693 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-Java                     11 hrs 13 mins      █████████████████░░░░░░░░   68.87 % 
-XML                      2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-JavaScript               2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Java Properties          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-
-🔥 에디터들: 
-Eclipse                  8 hrs 38 mins       █████████████░░░░░░░░░░░░   53.00 % 
-Claude Code              6 hrs 53 mins       ███████████░░░░░░░░░░░░░░   42.26 % 
-VS Code                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-
-🐱‍💻 프로젝트들: 
-dworks5.0                14 hrs 52 mins      ███████████████████████░░   91.27 % 
-dworks-e2e               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-EXSO_dWorks              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-
-💻 운영 체제들: 
-Windows                  16 hrs 17 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 28 mins (52.03%)
-
-✍️ 953 lines written by AI, 361 lines written by hand (72.53% AI-written)
-
-🔤 4,707,773 Input Tokens, 584,963 Output Tokens
-
-💵 $141.20 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 136 AI Prompts
-
-Opus                     994 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 72.53% of written lines came from AI
-📝 Concise Prompter — average 149 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 32.33% of changed lines were hand-edited
-```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
 
 ```text
-JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   31.25 % 
-Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
 
- Last Updated on 07/10/2026 20:41:11 UTC
+ Last Updated on 08/10/2026 20:48:42 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
