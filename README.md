@@ -94,48 +94,48 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     6 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   38.34 % 
-JavaScript               4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-XML                      2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Other                    1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Java Properties          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+JavaScript               4 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.01 % 
+Java                     3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+XML                      2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Java Properties          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 🔥 에디터들: 
-Claude Code              9 hrs 38 mins       ██████████████░░░░░░░░░░░   57.88 % 
-Eclipse                  4 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-VS Code                  2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Claude Code              9 hrs 9 mins        █████████████████░░░░░░░░   67.56 % 
+VS Code                  2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Eclipse                  1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
 
 🐱‍💻 프로젝트들: 
-dworks5.0                9 hrs 22 mins       ██████████████░░░░░░░░░░░   56.24 % 
-dworks-e2e               4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-eXrep_dWorks             58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-rig                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-demo                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+dworks5.0                6 hrs 16 mins       ████████████░░░░░░░░░░░░░   46.22 % 
+dworks-e2e               4 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.82 % 
+eXrep_dWorks             58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+rig                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+demo                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 💻 운영 체제들: 
-Windows                  16 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 17 mins (67.73%)
+⏱ AI Coding Time: 10 hrs 43 mins (79.05%)
 
-✍️ 3,666 lines written by AI, 193 lines written by hand (95.0% AI-written)
+✍️ 3,666 lines written by AI, 132 lines written by hand (96.52% AI-written)
 
-🔤 6,075,035 Input Tokens, 791,782 Output Tokens
+🔤 4,768,178 Input Tokens, 753,911 Output Tokens
 
-💵 $245.37 Estimated AI Cost This Week
+💵 $232.68 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 142 AI Prompts
+🧠 8 AI Sessions, 129 AI Prompts
 
 Opus                     3,829 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.0% of written lines came from AI
-📄 Detailed Prompter — average 1,006 characters per prompt
+🤖 AI-Driven — 96.52% of written lines came from AI
+📄 Detailed Prompter — average 1,101 characters per prompt
 🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 5.92% of changed lines were hand-edited
+🚀 High AI Trust — 4.39% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -151,7 +151,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 20:14:41 UTC
+ Last Updated on 10/10/2026 19:22:03 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
