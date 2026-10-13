@@ -61,30 +61,30 @@
 ------------
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C374%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C376%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-363%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-368%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     737 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-🌆 낮　                     1622 commits        ████████░░░░░░░░░░░░░░░░░   31.62 % 
-🌃 저녁                     1561 commits        ████████░░░░░░░░░░░░░░░░░   30.43 % 
-🌙 밤　                     1210 commits        ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+🌞 아침                     665 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+🌆 낮　                     1471 commits        ████████░░░░░░░░░░░░░░░░░   30.12 % 
+🌃 저녁                     1538 commits        ████████░░░░░░░░░░░░░░░░░   31.49 % 
+🌙 밤　                     1210 commits        ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
 ```
 📅 **제가 가장 생산적인 날은 토요일이에요.** 
 
 ```text
-월요일                      717 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-화요일                      691 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-수요일                      711 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-목요일                      692 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-금요일                      770 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-토요일                      856 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-일요일                      693 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+월요일                      717 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+화요일                      701 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+수요일                      711 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+목요일                      584 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+금요일                      622 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+토요일                      856 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+일요일                      693 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
 ```
 
 
@@ -94,50 +94,50 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JavaScript               4 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-Java                     3 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-XML                      2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Java Properties          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+JavaScript               6 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.19 % 
+Other                    4 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Java                     3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+XML                      2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Java Properties          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 🔥 에디터들: 
-Claude Code              9 hrs 9 mins        █████████████████░░░░░░░░   66.36 % 
-VS Code                  2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Eclipse                  1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-IntelliJ IDEA            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Claude Code              13 hrs 40 mins      ██████████████████░░░░░░░   70.84 % 
+VS Code                  3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Eclipse                  1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+IntelliJ IDEA            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🐱‍💻 프로젝트들: 
-dworks5.0                6 hrs 16 mins       ███████████░░░░░░░░░░░░░░   45.39 % 
-dworks-e2e               4 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.27 % 
-eXrep_dWorks             58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-rig                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-demo                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+dworks5.0                6 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.45 % 
+dworks-e2e               6 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.80 % 
+workspace-egov           3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+eXrep_dWorks             58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+rig                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 💻 운영 체제들: 
-Windows                  13 hrs 33 mins      █████████████████████████   98.22 % 
-Mac                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Windows                  19 hrs 3 mins       █████████████████████████   98.73 % 
+Mac                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 43 mins (77.65%)
+⏱ AI Coding Time: 15 hrs 37 mins (80.95%)
 
-✍️ 3,666 lines written by AI, 144 lines written by hand (96.22% AI-written)
+✍️ 4,732 lines written by AI, 191 lines written by hand (96.12% AI-written)
 
-🔤 4,768,178 Input Tokens, 753,911 Output Tokens
+🔤 5,329,221 Input Tokens, 1,092,961 Output Tokens
 
-💵 $232.68 Estimated AI Cost This Week
+💵 $319.23 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 129 AI Prompts
+🧠 9 AI Sessions, 159 AI Prompts
 
-Opus                     3,829 lines         █████████████████████████   100.00 % 
+Opus                     4,895 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.22% of written lines came from AI
-📄 Detailed Prompter — average 1,101 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 4.68% of changed lines were hand-edited
+🤖 AI-Driven — 96.12% of written lines came from AI
+📄 Detailed Prompter — average 1,042 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 4.69% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -153,7 +153,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 22:37:28 UTC
+ Last Updated on 13/10/2026 20:46:40 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
