@@ -61,11 +61,11 @@
 ------------
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C469%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C477%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-431%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-436%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -94,48 +94,48 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     15 hrs 5 mins       █████████████░░░░░░░░░░░░   53.18 % 
-JavaScript               4 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Markdown                 3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-XML                      2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Java                     17 hrs 17 mins      ███████████████░░░░░░░░░░   61.72 % 
+Markdown                 3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+XML                      2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+JavaScript               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Other                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 에디터들: 
-Claude Code              15 hrs 30 mins      ██████████████░░░░░░░░░░░   54.67 % 
-Eclipse                  12 hrs 18 mins      ███████████░░░░░░░░░░░░░░   43.39 % 
-VS Code                  33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Claude Code              15 hrs 19 mins      ██████████████░░░░░░░░░░░   54.67 % 
+Eclipse                  12 hrs 15 mins      ███████████░░░░░░░░░░░░░░   43.74 % 
+VS Code                  26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🐱‍💻 프로젝트들: 
-dworks5.0                24 hrs 12 mins      █████████████████████░░░░   85.32 % 
-sebang_8                 2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-dworks-e2e               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-103_SEBANG               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-workspace-egov           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+dworks5.0                24 hrs 22 mins      ██████████████████████░░░   87.02 % 
+sebang_8                 2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+103_SEBANG               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+dworks-e2e               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+workspace-egov           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 운영 체제들: 
-Windows                  28 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 10 mins (60.5%)
+⏱ AI Coding Time: 17 hrs 7 mins (61.14%)
 
-✍️ 7,547 lines written by AI, 1,011 lines written by hand (88.19% AI-written)
+✍️ 9,137 lines written by AI, 959 lines written by hand (90.5% AI-written)
 
-🔤 8,428,439 Input Tokens, 1,774,517 Output Tokens
+🔤 8,863,399 Input Tokens, 1,927,121 Output Tokens
 
-💵 $235.37 Estimated AI Cost This Week
+💵 $237.06 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 277 AI Prompts
+🧠 10 AI Sessions, 276 AI Prompts
 
-Opus                     8,055 lines         █████████████████████████   100.00 % 
+Opus                     9,479 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.19% of written lines came from AI
-📄 Detailed Prompter — average 768 characters per prompt
+🤖 AI-Driven — 90.5% of written lines came from AI
+📄 Detailed Prompter — average 1,089 characters per prompt
 🔁 Iterative Prompter — average 28 prompts per session
-🚀 High AI Trust — 14.82% of changed lines were hand-edited
+🚀 High AI Trust — 11.83% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -151,7 +151,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2026 21:26:14 UTC
+ Last Updated on 11/11/2026 22:01:24 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
