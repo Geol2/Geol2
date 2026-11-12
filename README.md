@@ -61,30 +61,30 @@
 ------------
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C477%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C486%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-436%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-442%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     735 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-🌆 낮　                     1661 commits        ████████░░░░░░░░░░░░░░░░░   31.81 % 
-🌃 저녁                     1605 commits        ████████░░░░░░░░░░░░░░░░░   30.74 % 
-🌙 밤　                     1220 commits        ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+🌞 아침                     736 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+🌆 낮　                     1677 commits        ████████░░░░░░░░░░░░░░░░░   31.97 % 
+🌃 저녁                     1612 commits        ████████░░░░░░░░░░░░░░░░░   30.73 % 
+🌙 밤　                     1220 commits        ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
 ```
 📅 **제가 가장 생산적인 날은 토요일이에요.** 
 
 ```text
-월요일                      775 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-화요일                      775 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-수요일                      755 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-목요일                      666 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-금요일                      699 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-토요일                      858 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-일요일                      693 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+월요일                      775 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+화요일                      775 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+수요일                      755 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+목요일                      690 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+금요일                      699 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+토요일                      858 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+일요일                      693 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
 ```
 
 
@@ -94,64 +94,64 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     17 hrs 17 mins      ███████████████░░░░░░░░░░   61.72 % 
-Markdown                 3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-XML                      2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-JavaScript               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Other                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Java                     19 hrs 40 mins      ███████████████░░░░░░░░░░   59.19 % 
+Markdown                 4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+XML                      3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+JavaScript               1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 에디터들: 
-Claude Code              15 hrs 19 mins      ██████████████░░░░░░░░░░░   54.67 % 
-Eclipse                  12 hrs 15 mins      ███████████░░░░░░░░░░░░░░   43.74 % 
-VS Code                  26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Claude Code              19 hrs 59 mins      ███████████████░░░░░░░░░░   60.15 % 
+Eclipse                  12 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   38.52 % 
+VS Code                  26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🐱‍💻 프로젝트들: 
-dworks5.0                24 hrs 22 mins      ██████████████████████░░░   87.02 % 
-sebang_8                 2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-103_SEBANG               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-dworks-e2e               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-workspace-egov           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+dworks5.0                27 hrs 15 mins      █████████████████████░░░░   82.02 % 
+sebang_8                 4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+103_SEBANG               1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+dworks-e2e               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+workspace-egov           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 운영 체제들: 
-Windows                  28 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  33 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 7 mins (61.14%)
+⏱ AI Coding Time: 22 hrs 14 mins (66.9%)
 
-✍️ 9,137 lines written by AI, 959 lines written by hand (90.5% AI-written)
+✍️ 9,602 lines written by AI, 1,096 lines written by hand (89.76% AI-written)
 
-🔤 8,863,399 Input Tokens, 1,927,121 Output Tokens
+🔤 8,170,386 Input Tokens, 2,297,379 Output Tokens
 
-💵 $237.06 Estimated AI Cost This Week
+💵 $271.93 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 276 AI Prompts
+🧠 10 AI Sessions, 372 AI Prompts
 
-Opus                     9,479 lines         █████████████████████████   100.00 % 
+Opus                     9,949 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.5% of written lines came from AI
-📄 Detailed Prompter — average 1,089 characters per prompt
-🔁 Iterative Prompter — average 28 prompts per session
-🚀 High AI Trust — 11.83% of changed lines were hand-edited
+🤖 AI-Driven — 89.76% of written lines came from AI
+📄 Detailed Prompter — average 813 characters per prompt
+🔁 Iterative Prompter — average 37 prompts per session
+🚀 High AI Trust — 12.09% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
 
 ```text
-JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
 
- Last Updated on 11/11/2026 22:01:24 UTC
+ Last Updated on 12/11/2026 21:59:02 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
