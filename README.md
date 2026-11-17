@@ -46,9 +46,9 @@
 ------------
 
   ### Solved Rank
-  
-  <div align="center">
-    <!-- <img height="180em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=geol2"> -->
+  #### 🚀 11/20 BOJ 오픈 축하
+  <div align="center">  
+    <img height="180em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=geol2">
     <img height="180em" src="https://leetcard.jacoblin.cool/Geol2?theme=light&font=Gugi&border=0&radius=20">
   </div>
   
