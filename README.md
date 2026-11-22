@@ -65,7 +65,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-463%20hrs%2026%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -151,7 +151,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2026 21:02:22 UTC
+ Last Updated on 22/11/2026 21:09:34 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
